@@ -9,9 +9,9 @@ Conduct an in-depth penetration test of a simulated company as part of cybersecc
 <strong>Skills</strong>
 
 OSINT
-nmap, wireshark, netcat, nikto, metasploit
-OpenVAS, Nessus, Burp suite
-CVE/CVSS research
+nmap, wireshark, netcat, nikto, metasploit<br>
+OpenVAS, Nessus, Burp suite<br>
+CVE/CVSS research<br>
 Technical report/Executive summary
 
 <strong>Outcomes</strong>
